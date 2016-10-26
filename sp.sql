@@ -1,1 +1,1 @@
-select * from Empleado;
+select * from Persona;

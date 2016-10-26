@@ -1,1 +1,1 @@
-select * from Persona;
+select * from Judios;
